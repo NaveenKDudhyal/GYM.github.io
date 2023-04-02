@@ -1,0 +1,257 @@
+/* CSS Reset */
+body {
+    font-family: 'Alkatra', cursive;
+    color: rgb(255, 255, 255);
+    margin: 0px;
+    padding: 0px;
+    background-image: url(../img/young-man-sportswear-exercise-class-gym_1150-12372.avif);
+    background-size: cover;
+}
+
+/* Complete Header */
+.header_containar {
+    padding-bottom: 12px;
+    position: sticky;
+    border: 2px solid rgba(0, 0, 0, 0);
+}
+
+
+
+
+
+/* Left side box */
+.left_side {
+    display: inline-block;
+    position: absolute;
+    left: 34px;
+    top: 12px;
+    width: 92px;
+    height: 33px;
+}
+
+.left_side img {
+    width: 65px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* center box */
+.center {
+    display: block;
+    width: 33%;
+    margin: auto;
+    margin-top: 12px;
+    /* border: 2px solid rgb(7, 251, 72); */
+}
+
+.under_list_nav {
+    margin: 0;
+}
+
+.under_list_nav li {
+    display: inline-block;
+    margin-right: 25px;
+}
+
+.under_list_nav li a:hover {
+    color: rgb(228, 208, 180);
+}
+
+.under_list_nav li a {
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* right side box */
+.right_side {
+    display: inline-block;
+    position: absolute;
+    right: 34px;
+    top: 12px;
+    /* border: 2px solid rgb(47, 13, 240); */
+}
+
+.call {
+    background-color: #f0f8ff00;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    margin-right: 28px;
+    border-top-left-radius: 10px;
+}
+
+.call:hover {
+    color: rgb(239, 0, 0);
+}
+
+.email {
+    background-color: #f0f8ff00;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    border-top-left-radius: 10px;
+}
+
+.email:hover {
+    color: rgb(255, 0, 0);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.below_header_conta {
+    border: 2px solid;
+    display: block;
+    width: 600px;
+    margin: auto;
+    padding: 87px 14px 67px 29px;
+    border-radius: 10px;
+
+}
+
+h3 {
+    display: block;
+    margin: auto;
+    text-align: center;
+    margin-top: -69px;
+}
+
+.name {
+    display: block;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 19px;
+
+}
+
+.name input {
+    border-radius: 5px;
+}
+
+.emailfill {
+    display: block;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 19px;
+
+}
+
+.emailfill input {
+    border-radius: 5px;
+}
+
+.contact {
+    display: block;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 19px;
+
+}
+
+.contact input {
+    border-radius: 5px;
+}
+
+.submit_reset input {
+    display: block;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 20px;
+    border-radius: 5px;
+
+}
